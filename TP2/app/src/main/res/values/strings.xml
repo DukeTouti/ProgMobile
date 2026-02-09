@@ -6,4 +6,7 @@
     <string name="mdp">Mot de passe</string>
     <string name="enregistrer_plan">Enregistrer Plan</string>
     <string name="annuler">Annuler</string>
+    <string name="haut">HAUT</string>
+    <string name="droit">DROIT</string>
+    <string name="bas">BAS</string>
 </resources>
