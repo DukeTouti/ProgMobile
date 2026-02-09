@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="valider">Valider</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="supprimer_tout">Supprimer Tout</string>
 </resources>
