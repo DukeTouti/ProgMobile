@@ -4,4 +4,5 @@
     <string name="supprimer">Supprimer</string>
     <string name="supprimer_tout">Supprimer Tout</string>
     <string name="mdp">Mot de passe</string>
+    <string name="enregistrer_plan">Enregistrer Plan</string>
 </resources>
