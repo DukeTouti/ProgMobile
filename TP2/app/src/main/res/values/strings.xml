@@ -14,4 +14,22 @@
     <string name="btn3">BTN3</string>
     <string name="btn4">BTN4</string>
     <string name="btn5">BTN5</string>
+
+    <string name="hint_quantite">Quantité</string>
+    <string name="hint_prix">Prix (DH)</string>
+    <string name="hint_ancien_prix">Ancien prix (DH)</string>
+    <string name="hint_date">Date (JJ/MM/AAAA)</string>
+    <string name="hint_lieu">Lieu de l\'achat</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="label_type">Type d\'article</string>
+
+    <string-array name="vetements">
+        <item>Pantalon</item>
+        <item>Tricot</item>
+        <item>T-shirt</item>
+        <item>Chemise</item>
+        <item>Veste</item>
+        <item>Robe</item>
+        <item>Short</item>
+    </string-array>
 </resources>
