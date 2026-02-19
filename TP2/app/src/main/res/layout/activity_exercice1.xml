@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Exercice1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_type"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp"/>
+
+    <Spinner
+        android:id="@+id/spinnerVetement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/vetements"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/editQuantite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_quantite"
+        android:inputType="number"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/editPrix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_prix"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/editAncienPrix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_ancien_prix"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/editDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_date"
+        android:inputType="date"
+        android:layout_marginBottom="12dp"/>
+
+    <EditText
+        android:id="@+id/editLieu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_lieu"
+        android:inputType="text"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnEnregistrer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_enregistrer"/>
+
+</LinearLayout>

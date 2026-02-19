@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="valider">Valider</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="supprimer_tout">Supprimer Tout</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="enregistrer_plan">Enregistrer Plan</string>
+    <string name="annuler">Annuler</string>
+    <string name="haut">HAUT</string>
+    <string name="droit">DROIT</string>
+    <string name="bas">BAS</string>
+    <string name="btn1">BTN1</string>
+    <string name="btn2">BTN2</string>
+    <string name="btn3">BTN3</string>
+    <string name="btn4">BTN4</string>
+    <string name="btn5">BTN5</string>
+
+    <string name="hint_quantite">Quantité</string>
+    <string name="hint_prix">Prix (DH)</string>
+    <string name="hint_ancien_prix">Ancien prix (DH)</string>
+    <string name="hint_date">Date (JJ/MM/AAAA)</string>
+    <string name="hint_lieu">Lieu de l\'achat</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="label_type">Type d\'article</string>
+
+    <string-array name="vetements">
+        <item>Pantalon</item>
+        <item>Tricot</item>
+        <item>T-shirt</item>
+        <item>Chemise</item>
+        <item>Veste</item>
+        <item>Robe</item>
+        <item>Short</item>
+    </string-array>
+
+
+
+    <string name="hint_nom">Nom du smartphone</string>
+    <string name="hint_fabricant">Fabricant</string>
+    <string name="hint_annee">Année de sortie</string>
+    <string name="hint_processeur">Processeur</string>
+    <string name="hint_ram">RAM (Go)</string>
+    <string name="hint_cam_front">Caméra frontale (MP)</string>
+    <string name="hint_cam_arriere">Caméra arrière (MP)</string>
+    <string name="label_notation">Notation</string>
+    <string name="btn_sauvegarder">Sauvegarder</string>
+</resources>
