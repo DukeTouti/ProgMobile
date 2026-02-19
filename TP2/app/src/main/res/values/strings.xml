@@ -32,4 +32,16 @@
         <item>Robe</item>
         <item>Short</item>
     </string-array>
+
+
+
+    <string name="hint_nom">Nom du smartphone</string>
+    <string name="hint_fabricant">Fabricant</string>
+    <string name="hint_annee">Année de sortie</string>
+    <string name="hint_processeur">Processeur</string>
+    <string name="hint_ram">RAM (Go)</string>
+    <string name="hint_cam_front">Caméra frontale (MP)</string>
+    <string name="hint_cam_arriere">Caméra arrière (MP)</string>
+    <string name="label_notation">Notation</string>
+    <string name="btn_sauvegarder">Sauvegarder</string>
 </resources>
