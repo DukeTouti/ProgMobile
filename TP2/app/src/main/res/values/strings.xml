@@ -9,4 +9,9 @@
     <string name="haut">HAUT</string>
     <string name="droit">DROIT</string>
     <string name="bas">BAS</string>
+    <string name="btn1">BTN1</string>
+    <string name="btn2">BTN2</string>
+    <string name="btn3">BTN3</string>
+    <string name="btn4">BTN4</string>
+    <string name="btn5">BTN5</string>
 </resources>
