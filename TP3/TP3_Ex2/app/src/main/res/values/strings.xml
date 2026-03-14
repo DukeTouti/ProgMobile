@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP3_Ex2</string>
+    <string name="Name">Name</string>
+    <string name="send">Envoyer Texte</string>
+    <string name="Text">Text</string>
+
+    <string name="Call">Call</string>
+    <string name="Logout">Logout</string>
+</resources>
