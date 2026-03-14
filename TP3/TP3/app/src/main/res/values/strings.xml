@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="LoginActivity">LoginActivity</string>
+    <string name="Nom_de_compte">Nom de Compte</string>
+    <string name="LOGIN">LOGIN</string>
+
+    <string name="NewsActivity">NewsActivity</string>
+    <string name="Connecte">Connecte en tant que : ?</string>
+    <string name="Details">DETAILS</string>
+    <string name="LOGOUT">LOGOUT</string>
+
+    <string name="DetailsActivity">DetailsActivity</string>
+    <string name="OK">OK</string>
+</resources>
