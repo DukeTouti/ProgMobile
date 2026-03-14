@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_other"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/other_item"/>
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/settings_item"/>
+
+    <item
+        android:id="@+id/menu_profil"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="@string/profil"/>
+
+    <item
+        android:id="@+id/menu_accueil"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="@string/accueil"/>
+
+    <item
+        android:id="@+id/menu_aide"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/aide"/>
+
+    <item
+        android:id="@+id/menu_apropos"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/a_propos"/>
+
+</menu>
